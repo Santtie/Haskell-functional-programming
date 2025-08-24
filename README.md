@@ -1,5 +1,17 @@
 # Practice Report - Functional Programming in haskell
 
+<<<<<<< HEAD
+=======
+- ## Group members
+- Laura Santamaría Espinosa
+- Simón Díaz
+
+- ## Coding platforms
+- Visual Studio code
+- Haskell extension
+- GHCup
+
+>>>>>>> e5459c7ff263a49d24b148ffec7cf6b678e80615
 ## 1. Introduction
 This practice implements different functions in **Haskell** related to:
 - List filtering and ordering.
